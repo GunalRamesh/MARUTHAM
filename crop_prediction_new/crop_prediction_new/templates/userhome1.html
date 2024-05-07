@@ -1,0 +1,157 @@
+<html>
+
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <link rel="icon" href="../static/images/favicon.png">
+      <title>Crop</title>
+      <!-- CSS FILES START -->
+      <link href="../static/css/custom.css" rel="stylesheet">
+      <link href="../static/css/color.css" rel="stylesheet">
+      <link href="../static/css/responsive.css" rel="stylesheet">
+      <link href="../static/css/owl.carousel.min.css" rel="stylesheet">
+      <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+      <link href="../static/css/prettyPhoto.css" rel="stylesheet">
+      <link href="../static/css/all.min.css" rel="stylesheet">
+      <!-- CSS FILES End -->
+
+   </head>
+   <body>
+    <div class="wrapper">
+         <!--Header Start-->
+         <header class="header-style-2">
+            <nav class="navbar navbar-expand-lg">
+               <a class="navbar-brand" href="index-2.html"><img src="../static/images/h2logo.jpeg" alt=""></a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-bars"></i> </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                 <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown">
+                        <a class="nav-link" href="/userhome" > Home </a>
+                        
+                     </li>
+                     <li class="nav-item"> <a class="nav-link" href="/logout">Logout</a> </li>
+					 
+					 
+			     </ul>
+                  <ul class="topnav-right">
+                     
+                  </ul>
+               </div>
+            </nav>
+         </header>
+         <div id="search">
+           
+         </div>
+		 
+		 <section class="wf100 p100 inner-header">
+            <div class="container">
+               <h1>User</h1>
+               <ul>
+                  <li><a href="/userhome">Prediction</a></li>
+				  <li><a href="/userhome1">Recommendation</a></li>
+                 
+               </ul>
+            </div>
+         </section>
+		 
+		
+		 <section class="wf100 p80">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-8">
+                     <div class="myaccount-form">
+                        <h3>Testing</h3>
+                        <form name="form1" method="post">
+                          <div class="row">
+							<div class="col-md-4">
+							<select name="crop" class="form-control">
+							<option value="">-Crop-</option>
+							{% for cp in crop2 %}
+							<option>{{cp}}</option>
+							{% endfor %}
+							</select>
+							</div>
+							<div class="col-md-4">
+							 <button type="submit" class="register">Recommend</button>
+							</div>
+							
+							
+							{% if s1=="1" %}
+							<table class="table">
+							<tr>
+							<td>N </td>
+							<td>{{data[0]}} to {{data[1]}}</td>
+							</tr>
+							<tr>
+							<td>P </td>
+							<td>{{data[2]}} to {{data[3]}}</td>
+							</tr>
+							<tr>
+							<td>K </td>
+							<td>{{data[4]}} to {{data[5]}}</td>
+							</tr>
+							<tr>
+							<td>Temperature </td>
+							<td>{{data[6]}} to {{data[7]}}</td>
+							</tr>
+							<tr>
+							<td>Humidity </td>
+							<td>{{data[8]}} to {{data[9]}}</td>
+							</tr>
+							<tr>
+							<td>Ph </td>
+							<td>{{data[10]}} to {{data[11]}}</td>
+							</tr>
+							<tr>
+							<td>Rainfall </td>
+							<td>{{data[12]}} to {{data[13]}}</td>
+							</tr>
+							
+							
+							</table>
+							<p>&nbsp;</p>
+							
+							{% if st2=="1" %}
+                                <table width="100%" border="0" cellpadding="5" cellspacing="0">
+                                  <tr>
+                                    <td colspan="2" style="background-color:#009933; color:#FFFFFF"><strong>Crop: {{crop1}}</strong></td>
+                                  </tr>
+								  {% for rs in data2 %}
+                                  <tr>
+                                    <td width="15%" align="center" valign="top">&nbsp;</td>
+                                    <td width="85%"><strong>Fertilizers:</strong></td>
+                                  </tr>
+                                  
+                                  <tr>
+                                    <td width="15%" align="center" valign="top">&nbsp;</td>
+                                    <td>{{rs[2]}}</td>
+                                  </tr>
+                                  <tr>
+                                    <td width="15%" align="center" valign="top">&nbsp;</td>
+                                    <td><strong>Pesticides:</strong></td>
+                                  </tr>
+                                  <tr>
+                                    <td width="15%" align="center" valign="top">&nbsp;</td>
+                                    <td>{{rs[3]}}</td>
+                                  </tr>{% endfor %}
+                                </table>
+								{% endif %}
+								
+							{% endif %}
+						</div>
+						
+						
+						
+						
+						
+						</form>
+                     </div>
+                  </div>
+                  <div class="col-lg-4">
+                    
+                  </div>
+               </div>
+            </div>
+         </section>

@@ -1,0 +1,155 @@
+Fertiliser,Nitrogen (n),Phosphorus (p),Potassium (k)
+Cottonseed Meal,0.1,202,0.68
+Ground Fish (Dried),0.169,114,0.26
+"Fish, Blood & Bone meal",0.164,198,0.56
+Activated Sewage Sludge,0.058,87,0.63
+Blood Meal,0.059,101,0.41
+Rock Phosphate (Ground),0.07,295,0.72
+Bone Meal,0.112,124,0.81
+Chicken Manure (Dried),0.112,248,0.71
+Goat Manure (Dried),0.298,174,0.5
+Sheep Manure (Dried),0.078,115,0.23
+Poultry Litter (Dried),0.077,98,0.68
+Alfalfa (Hay),0.102,117,0.39
+Tankage,0.053,170,1.09
+Apple (Fruit),0.247,121,0.7
+Apple (Leaves),0.145,300,0.77
+Apple (Pomace),0.186,112,0.36
+"Apple (Skin, Ash)",0.092,127,0.41
+Basic Slag,0.097,156,0.7
+Cana Tree (Ash),0.122,79,0.74
+Banana Skin (Ash),0.083,261,0.78
+Banana Stalk (Ash),0.03,242,0.48
+Barley (Grain),0.05,229,0.14
+Bat Guano,0.086,158,0.37
+Beet (Root),0.048,139,0.72
+Brewery Grain (Wet),0.049,214,0.45
+Brigham Tea (Ash),0.051,132,0.22
+"Bone (Ground, Ash)",0.036,97,0.55
+Silk Mill (By products),0.256,115,0.43
+Cantaloupe skin (Melon) (Ash),0.095,148,0.3
+Castor-Bean (Pomace),0.048,97,0.14
+Cattail / Bulrush reed & Stem,0.039,108,0.18
+Cattail / Bulrush Seed,0.194,115,0.22
+Coal (Anthracite) (Ash),0.136,103,0.72
+Coal (Bituminous) (Ash),0.032,380,0.81
+Cocoa shell (Dust),0.127,195,0.71
+Coffee Grounds,0.087,109,0.5
+Coffee Grounds (Dried),0.047,100,0.23
+Corncobs (Ground Charred),0.058,445,0.68
+Common Crab,0.054,259,0.39
+Nettles (Stinging European),0.065,82,1.09
+Comfrey,0.038,248,0.7
+Corn (Grain),0.035,276,0.77
+Corn (Green Forage),0.3,121,0.36
+Cottonseed,3.15,130,0.41
+Cottonseed - hull ashes,0,148,0.7
+Cottonseed - hull (Ash),0,152,0.74
+Cotton Waste (Factory),1.32,105,0.14
+Cowpeas  (Green forage),0.45,100,0.28
+Black-eyed Peas  (Green forage),0.45,121,0.16
+Cowpeas (Seed),3.1,300,0.4
+Black-eyed Peas (Seed),3.1,112,0.24
+Crabgrass (Green),0.66,127,0.34
+Cucumber (Skin) (Ash),0,156,0.24
+Dog Manure,1.97,79,0.78
+Jellyfish (Dried),4.6,261,0.48
+Mussel Mud (Dried),0.72,242,0.14
+Duck Manure (Fresh),1.12,229,0.37
+Eggs,2.25,158,0.72
+Eggshell (Burned),0,139,0.45
+Eggshell,1.19,214,0.72
+Feathers,15.3,132,0.81
+Field Bean (Seed),4,97,0.71
+Field Bean (Shell),1.7,198,0.5
+Smokehouse Ashes,0,87,0.23
+Fish Scraps (Fresh),1.7,101,0.68
+Mud / Silt (Freshwater),1.37,295,0.39
+Greasewood Ashes,0,124,1.09
+Beans - Garden Beans & Pods,0.25,248,0.7
+Gluten feed,1.37,174,0.77
+Greensand (Glauconite),0,115,0.36
+Grapes (Fruit),0.15,98,0.41
+Grapefruit (Skin) (Ash),0.048,117,0.7
+Hair,0.039,170,0.74
+Harbour Mud,0.194,121,0.61
+Hoof & Horn Meal,0.136,300,0.63
+Incinerator Ash,0.032,112,0.62
+Kentucky Bluegrass (Green),0.127,127,0.59
+Kentucky Bluegrass (Hay),0.087,156,0.42
+King Crab (Dried - Ground),0.047,79,0.72
+King Crab (Fresh),0.136,261,0.81
+Leather (Acidulated),0.127,242,0.71
+Leather (Ground),0.087,229,0.5
+Leather Scraps (Ash),0,158,0.23
+Lemon Culls,0.15,139,0.68
+Lemon Skins (Ash),0,214,0.39
+Limekiln Ash,0,132,1.09
+Lobster Scraps,4.5,97,0.7
+Lobster Shell,4,115,0.77
+Milk,0.5,148,0.36
+Mussels,0.9,97,0.41
+Molasses residue (Brewing),0.7,108,0.7
+Oak Leaves,0.8,115,0.74
+Oats (Grain),2,103,0.45
+Olives (Pomace),1.15,380,0.22
+Olive Waste,1.22,195,0.55
+Orange Culls,0.2,109,0.43
+Orange Skins (Ash),0,100,0.3
+Pea Pods (Ash),0,445,0.14
+Peanuts (Seed or Kernel),3.6,259,0.18
+Peanut (Shells),0.8,82,0.22
+Peanut (Shell Ash),0,248,0.18
+Pigeon Manure (Fresh),4.19,276,0.33
+Pigweed (Amaranth),0.6,121,0
+Pine needles,0.46,130,0.03
+Potato (Tuber),0.35,148,0.5
+Potato (Leaves / Stalks),0.6,152,0.45
+Potato skin (Ash),0,105,0.68
+Poudrette (Compost toilet),1.46,100,0.26
+Prune Waste,0.18,121,0.56
+Pumpkin (Flesh),0.16,300,0.63
+Pumpkin (Seeds),0.87,112,0.41
+Rabbitbrush Ashes,0,127,0.61
+Ragweed (Great / Common),0.76,156,0.63
+Red Clover (Hay),2.1,79,0.62
+Redtop (Bentgrass) (Hay),1.2,261,0.59
+Raw Sugar Residue,1.14,242,0.42
+Seaweed (Ascophyllum nodosum),1.9,229,0.32
+Rose (Flowers),0.3,158,0.55
+Rhubarb (Stems),0.1,139,0.14
+Sagebrush Ashes,0,214,0.28
+salt marsh hay (salt hay grass),1.1,132,0.16
+Salt Mud,0.4,97,0.4
+Sardine Scraps,7.97,259,0.24
+Sewage Sludge (Filter bed),0.74,82,0.34
+Shoddy & Felt,04-Dec,248,0.24
+Shrimp Waste,2.87,276,0.78
+Shrimp Meal,6,121,0.48
+Silkworm Cocoons,9.42,130,0.14
+Chimney Soot,0.5 - 11,148,0.37
+Spanish Moss,0.6,152,0.72
+Starfish,1.8,105,0.45
+Sunflower Seed,2.25,100,0.22
+Sweetpotato Skin (Boiled) (Ash),0,121,0.55
+Sweetpotato,0.25,300,0.43
+Tanbark (Ash),0,112,0.3
+Tea Leaves (Grounds),4.15,127,0.14
+Tea-leaf Ash,0,156,0.18
+Timothy Hay (Cat's tail),1.25,79,0.22
+Tobacco Leaves,4,261,0.18
+Tobacco Stalks,3.7,242,0.33
+Tobacco Stems,2.5,229,0.68
+Tomato (Fruit),0.2,158,0.26
+Tomato (Leaves),0.35,139,0.56
+Tomato (Stalks),0.35,214,0.63
+Rabbit Manure,7,132,0.41
+Wheat (Bran),0.03,97,0.61
+Wheat (Grain),0.05,198,0.63
+Wheat (Straw),0.086,87,0.62
+White Clover (Green),0.048,101,0.59
+White Sage (Ash),0.049,295,0.42
+Wood Ashes (Leached),0.051,124,0.32
+Wood Ashes (Unleached),0.036,248,0.55
+Wool Waste,0.256,174,0.14
+Insect Frass,0.05,115,0.28
